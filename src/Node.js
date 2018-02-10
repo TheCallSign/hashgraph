@@ -2,10 +2,12 @@
 
 /**
  * Node
- * @ignore
+ * @description
+ * An entity in the Hashgraph
+ * ie: Alice or Bob
  */
 class Node {
-
+  constructor() {}
 }
 
 /**
